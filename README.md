@@ -1,2 +1,4 @@
 # css-mario-kart-animation
-Simple example animation pure CSS
+Example animation only CSS
+
+https://codepen.io/jsgalvish/pen/PmQowK
